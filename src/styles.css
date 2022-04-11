@@ -111,3 +111,9 @@ form button {
 	cursor: pointer;
 	outline: none;
 }
+
+@media (max-width: 500px) {
+	form {
+		width: 280px;
+	}
+}
