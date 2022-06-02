@@ -2,6 +2,8 @@
 
 [![Author](https://img.shields.io/badge/Author-Busra%20Uygur%20Barut-blue.svg)](https://www.linkedin.com/in/busra-uygur-barut-674b5723b/)
 
+ <p align="justify">⭐️ View live: https://busrauygur.github.io/todoapp/</p>
+
 ![ScreenShot](https://raw.github.com/BusraUygur/todoapp/main/public/todoapp.png)
 
  <p align="justify">This website serves as a to do app with title and note section allowing user to add and delete notes. It was created using React and CSS.</p>
